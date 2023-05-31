@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on my PhD study
+- 🌱 I’m currently a PhD candidate at Loughborough University
 - 🔭 I’m currently looking for postdoc positions
 - 👯 I’m looking to collaborate on machine learning, deep learning and software performance prediction
 - 📫 How to reach me: J.Gong@lboro.ac.uk
