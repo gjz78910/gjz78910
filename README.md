@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a PhD candidate at Loughborough University
 - 🔭 I’m currently looking for postdoc positions
-- 👯 I’m looking to collaborate on machine learning, deep learning and software performance prediction
+- 👯 I’m looking to collaborate on machine learning, deep learning, and software performance prediction
 - 📫 How to reach me: J.Gong@lboro.ac.uk
 - 😄 Personal webpage: [https://gjz78910.github.io/](https://gjz78910.github.io/)
 - ⚡ Fun fact: A fan of Manchester City FC⚽
