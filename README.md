@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently a PhD candidate at Loughborough University
-- 🔭 I’m currently looking for postdoc positions
+- 🌱 I’m currently a PhD graduate from Loughborough University
+- 🔭 I’m currently working as a KTP associate for Turintech AI and University of Leeds
 - 👯 I’m looking to collaborate on machine learning, deep learning, and software performance prediction
-- 📫 How to reach me: J.Gong@lboro.ac.uk
+- 📫 How to reach me: gjz78910@gmail.com
 - 😄 Personal webpage: [https://gjz78910.github.io/](https://gjz78910.github.io/)
 - ⚡ Fun fact: A fan of Manchester City FC⚽
 
