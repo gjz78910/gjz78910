@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on machine learning, deep learning, and software performance prediction
 - 📫 How to reach me: gjz78910@gmail.com
 - 😄 Personal webpage: [https://gjz78910.github.io/](https://gjz78910.github.io/)
-- ⚡ Fun fact: A fan of Manchester City FC⚽
+- ⚡ Fun fact: I have a very cute Maltese dog!
 
 <!--
 **gjz78910/gjz78910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
