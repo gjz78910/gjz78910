@@ -2,7 +2,7 @@
 
 - 🌱 I’m a PhD graduate from Loughborough University
 - 🔭 I’m currently working as a Research Associate at King's College London
-- 👯 I’m looking to collaborate on machine learning, deep learning, and software performance prediction
+- 👯 I’m looking to collaborate on software performance engineering, LLM4Code, and AI4SE
 - 📫 How to reach me: gjz78910@gmail.com
 - 😄 Personal webpage: [https://gjz78910.github.io/](https://gjz78910.github.io/)
 - ⚡ Fun fact: I have a very lovely Maltese dog!
